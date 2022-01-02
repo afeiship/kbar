@@ -13,6 +13,7 @@ const defaultStyle: React.CSSProperties = {
   width: "100%",
   inset: "0px",
   padding: "14vh 16px 16px",
+  zIndex:2
 };
 
 function getStyle(style: React.CSSProperties | undefined) {
